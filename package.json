@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-v4-rtl",
+  "version": "1.0.0",
+  "description": "bootstrap v4 right to left",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirsadegh/bootstrap-v4-rtl.git"
+  },
+  "keywords": [
+    "bootstrap4",
+    "right-to-left",
+    "bootstrap-rtl",
+    "bootstrap"
+  ],
+  "author": "mirsadegh por",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirsadegh/bootstrap-v4-rtl/issues"
+  },
+  "homepage": "https://github.com/mirsadegh/bootstrap-v4-rtl#readme"
+}
